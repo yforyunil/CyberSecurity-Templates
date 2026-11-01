@@ -14,14 +14,12 @@ Mappings from this repository's documents to common security and privacy framewo
 | [pci-dss-4.0.1-mapping.md](pci-dss-4.0.1-mapping.md) | PCI DSS | v4.0.1 (current, only active version) |
 | [gdpr-mapping.md](gdpr-mapping.md) | GDPR | In force; 96 h breach deadline is a proposal only |
 | [hipaa-mapping.md](hipaa-mapping.md) | HIPAA | Current Security Rule; overhaul still proposed |
-| [gap-analysis.md](gap-analysis.md) | All | Coverage snapshot and prioritized next documents |
 
 ## How to Use
 1. Pick the frameworks you are subject to or targeting.
 2. Open the framework file and review **Gap** and **Partial** rows.
-3. Use [gap-analysis.md](gap-analysis.md) to choose which documents to create next.
-4. Collect implementation evidence for rows marked **Covered**.
-5. Update mappings whenever you add or change a document.
+3. Collect implementation evidence for rows marked **Covered**.
+4. Update mappings whenever you add or change a document.
 
 ## Conventions
 - Coverage values: **Covered**, **Partial**, **Gap**
