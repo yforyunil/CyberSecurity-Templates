@@ -7,7 +7,6 @@ Mappings from this repository's documents to common security and privacy framewo
 ## Contents
 | File | Framework | Version / Status |
 |---|---|---|
-| [master-crosswalk.md](master-crosswalk.md) | All | One-page view: document -> framework requirements |
 | [iso-27001-2022-mapping.md](iso-27001-2022-mapping.md) | ISO/IEC 27001 | 2022, all 93 Annex A controls |
 | [nist-csf-2.0-mapping.md](nist-csf-2.0-mapping.md) | NIST CSF | 2.0, all 22 categories plus key subcategories |
 | [soc2-mapping.md](soc2-mapping.md) | SOC 2 | Trust Services Criteria (Security plus optional categories) |
