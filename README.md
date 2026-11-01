@@ -14,6 +14,7 @@ cybersec-docs/
 │   │   └── playbooks/
 │   └── business-continuity/
 ├── 03-offensive/
+├── 04-compliance-mapping/
 └── templates/
 ```
 
@@ -58,6 +59,19 @@ cybersec-docs/
 | [Statement of Work](03-offensive/statement-of-work.md) | OFF-002 |
 | [Scope and Authorization Letter](03-offensive/scope-and-authorization-letter.md) | OFF-003 |
 | [Pentest Report Template](03-offensive/pentest-report-template.md) | OFF-004 |
+
+### 04 - Compliance Mapping
+| Document | Framework |
+|---|---|
+| [Folder overview](04-compliance-mapping/README.md) | - |
+| [Master Crosswalk](04-compliance-mapping/master-crosswalk.md) | All |
+| [ISO/IEC 27001:2022](04-compliance-mapping/iso-27001-2022-mapping.md) | MAP-001 |
+| [NIST CSF 2.0](04-compliance-mapping/nist-csf-2.0-mapping.md) | MAP-002 |
+| [SOC 2](04-compliance-mapping/soc2-mapping.md) | MAP-003 |
+| [PCI DSS v4.0.1](04-compliance-mapping/pci-dss-4.0.1-mapping.md) | MAP-004 |
+| [GDPR](04-compliance-mapping/gdpr-mapping.md) | MAP-005 |
+| [HIPAA](04-compliance-mapping/hipaa-mapping.md) | MAP-006 |
+| [Gap Analysis](04-compliance-mapping/gap-analysis.md) | MAP-007 |
 
 ### Templates
 - [Document Template](templates/document-template.md)
