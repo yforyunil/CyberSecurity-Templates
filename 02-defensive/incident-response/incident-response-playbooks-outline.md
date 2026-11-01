@@ -27,17 +27,19 @@
 ## 2. Playbook Index
 | ID | Playbook | Status |
 |---|---|---|
-| PB-01 | Ransomware | Outline |
-| PB-02 | Phishing / Business Email Compromise | Outline |
-| PB-03 | Data breach / data leakage | Outline |
-| PB-04 | Insider threat | Outline |
-| PB-05 | DDoS | Outline |
-| PB-06 | Account / credential compromise | Outline |
-| PB-07 | Malware outbreak | Outline |
-| PB-08 | Lost / stolen device | Outline |
-| PB-09 | Web application compromise | Outline |
-| PB-10 | Cloud account compromise | Outline |
-| PB-11 | Third-party / supply chain compromise | Outline |
+| PB-01 | [Ransomware](playbooks/pb-01-ransomware.md) | Draft |
+| PB-02 | [Phishing / Business Email Compromise](playbooks/pb-02-phishing-bec.md) | Draft |
+| PB-03 | [Data breach / data leakage](playbooks/pb-03-data-breach.md) | Draft |
+| PB-04 | [Insider threat](playbooks/pb-04-insider-threat.md) | Draft |
+| PB-05 | [DDoS](playbooks/pb-05-ddos.md) | Draft |
+| PB-06 | [Account / credential compromise](playbooks/pb-06-account-compromise.md) | Draft |
+| PB-07 | [Malware outbreak](playbooks/pb-07-malware-outbreak.md) | Draft |
+| PB-08 | [Lost / stolen device](playbooks/pb-08-lost-stolen-device.md) | Draft |
+| PB-09 | [Web application compromise](playbooks/pb-09-web-app-compromise.md) | Draft |
+| PB-10 | [Cloud account compromise](playbooks/pb-10-cloud-account-compromise.md) | Draft |
+| PB-11 | [Third-party / supply chain compromise](playbooks/pb-11-supply-chain-compromise.md) | Draft |
+
+Full playbooks live in the [`playbooks/`](playbooks/) folder. The sections below are the original summaries.
 
 ## PB-01 Ransomware
 - **Trigger:** Encrypted files, ransom note, mass file modification alerts

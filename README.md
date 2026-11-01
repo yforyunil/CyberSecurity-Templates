@@ -11,6 +11,7 @@ cybersec-docs/
 ├── 02-defensive/
 │   ├── detection-and-monitoring/
 │   ├── incident-response/
+│   │   └── playbooks/
 │   └── business-continuity/
 ├── 03-offensive/
 └── templates/
@@ -35,6 +36,17 @@ cybersec-docs/
 | [Incident Report Template](02-defensive/incident-response/incident-report-template.md) | IR-003 |
 | [Post-Incident Review Template](02-defensive/incident-response/post-incident-review-template.md) | IR-004 |
 | [Chain of Custody Form](02-defensive/incident-response/chain-of-custody-form.md) | IR-005 |
+| [PB-01 Ransomware](02-defensive/incident-response/playbooks/pb-01-ransomware.md) | IR-PB-01 |
+| [PB-02 Phishing / BEC](02-defensive/incident-response/playbooks/pb-02-phishing-bec.md) | IR-PB-02 |
+| [PB-03 Data Breach](02-defensive/incident-response/playbooks/pb-03-data-breach.md) | IR-PB-03 |
+| [PB-04 Insider Threat](02-defensive/incident-response/playbooks/pb-04-insider-threat.md) | IR-PB-04 |
+| [PB-05 DDoS](02-defensive/incident-response/playbooks/pb-05-ddos.md) | IR-PB-05 |
+| [PB-06 Account Compromise](02-defensive/incident-response/playbooks/pb-06-account-compromise.md) | IR-PB-06 |
+| [PB-07 Malware Outbreak](02-defensive/incident-response/playbooks/pb-07-malware-outbreak.md) | IR-PB-07 |
+| [PB-08 Lost / Stolen Device](02-defensive/incident-response/playbooks/pb-08-lost-stolen-device.md) | IR-PB-08 |
+| [PB-09 Web App Compromise](02-defensive/incident-response/playbooks/pb-09-web-app-compromise.md) | IR-PB-09 |
+| [PB-10 Cloud Account Compromise](02-defensive/incident-response/playbooks/pb-10-cloud-account-compromise.md) | IR-PB-10 |
+| [PB-11 Supply Chain Compromise](02-defensive/incident-response/playbooks/pb-11-supply-chain-compromise.md) | IR-PB-11 |
 | [Disaster Recovery Plan](02-defensive/business-continuity/disaster-recovery-plan.md) | BC-001 |
 | [Business Continuity Plan](02-defensive/business-continuity/business-continuity-plan.md) | BC-002 |
 | [Crisis Management Plan](02-defensive/business-continuity/crisis-management-plan.md) | BC-003 |
